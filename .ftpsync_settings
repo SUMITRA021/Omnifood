@@ -1,0 +1,1 @@
+{"connect":"SFTP","host":"localhost","port":"22","user":"Omnifood","remoteRoot":"http://127.0.0.1:56252/index.html","privateKeyFile":"http://127.0.0.1:56252/index.html"}
